@@ -1,3 +1,3 @@
-Iam 100% happy
-Iam 100% healthy
-Everything is working in my favour
+Iam a positive person
+Iam Blessed beyond Imagination
+everything is working in my favour
