@@ -8,6 +8,7 @@ namespace GitVersionControl
     {
         public void TestMethod1()
         {
+            Console.WriteLine("iam a happiest person");
         }
     }
 }
