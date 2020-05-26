@@ -9,6 +9,7 @@ namespace GitVersionControl
         [TestMethod]
         public void TestMethod1()
         {
+            Console.WriteLine("iam a Luckiest person");
         }
     }
 }
